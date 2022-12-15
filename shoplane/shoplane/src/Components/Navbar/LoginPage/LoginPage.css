@@ -1,0 +1,74 @@
+/* .left-header{
+    font-size: larger;
+    justify-content: center;
+    margin-left: 120px;
+    margin-top: 34px;
+} */
+/* 
+.right-header{
+    font-size: large;
+    margin-left: 1150px;
+    
+} */
+
+/* .card{ */
+    /* display: block;
+    box-sizing: border-box;
+    margin-left: 540px;
+    margin-top: 50px;
+    */
+    /* position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+
+} */
+
+.login-button{
+    width: 30%;
+    height: 34px;
+    margin: 8px 12px;
+    border-radius: 8px;
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+    color: white;
+
+}
+
+ul{
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+    padding:0px;
+    
+}
+ul a{
+    color: grey;
+    text-decoration: none;
+    
+}
+
+.login-btn{
+    display: flexbox;
+    width: 140px;
+    height: 44px;
+    border-color: lightgrey;
+    background-color: white;
+    border-radius: 4px;
+    border-width: 1px;
+    justify-content: center;
+   
+}
+
+.form-input{
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    padding: 15px;
+    
+}
